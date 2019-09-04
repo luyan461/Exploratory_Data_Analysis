@@ -1,5 +1,5 @@
-# Exploratory_Data_Analysis
-This is the class project of my statistics course *Data Management and Graphics for Statistical Analyses*, which satisfies the General Education (GE) requirement in my Data Analysis specialization. The main focus of this project is about utilizing SAS along with its SQL procedure and macro programming for basic statistical analyses.
+# Exploratory_Data_Analysis_for_US_College_Tuitions
+In this project, we are going to utilize SAS along with its embedded SQL procedure and macro programming for basic statistical analyses of US college tuitions.
 
 **Keywords**: SAS, SQL procedure, output delivery system, data wrangling, data visualization
 
